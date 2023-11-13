@@ -2,6 +2,8 @@
 #include <omp.h>
 #include <cmath>
 #include <list>
+#include <time.h>
+#include <sys/time.h>
 //#include <bits/stdc++.h>
 
 using namespace std;
@@ -43,6 +45,8 @@ int main(int argc, char *argv[])
 	
 	float teto = float(base10N)/float(T);
 	
+	struct timeval start, stop;
+	gettimeofday(&start, 0);
 	////Processamento
 	#pragma omp parallel num_threads(T) shared (lista)
 	{
@@ -80,6 +84,9 @@ int main(int argc, char *argv[])
 		finalMaiorList.splice(finalMaiorList.end(), listaMaior[i]);
 	}
 	////Processamento
+	gettimeofday(&stop, 0);
+      	printf("%1.10f ", (double)(stop.tv_usec - start.tv_usec) / 1000000 + (double)(stop.tv_sec - start.tv_sec));
+      	
 	cout << "Total:" << totais << endl;
 	cout << "totais grupo: " << endl;
 	
