@@ -85,7 +85,11 @@ int main(int argc, char *argv[])
 	}
 	////Processamento
 	gettimeofday(&stop, 0);
-      	printf("%1.10f ", (double)(stop.tv_usec - start.tv_usec) / 1000000 + (double)(stop.tv_sec - start.tv_sec));
+	
+	cout << "N = " << N << endl;
+	cout << "T = " << T << endl;
+	
+      	printf("Tempo de execucao: %1.10f \n", (double)(stop.tv_usec - start.tv_usec) / 1000000 + (double)(stop.tv_sec - start.tv_sec));
       	
 	cout << "Total:" << totais << endl;
 	cout << "totais grupo: " << endl;

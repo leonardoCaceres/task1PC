@@ -1,0 +1,260 @@
+N = 5
+T = 1
+Tempo de execucao: 0.0146360000 
+Total:501595
+totais grupo: 
+100336
+99780
+100821
+100106
+100552
+Quantidade menores que 5: 45218
+Quantidade maiores que 5: 54782
+
+N = 5
+T = 4
+Tempo de execucao: 0.0078000000 
+Total:501595
+totais grupo: 
+100336
+99780
+100821
+100106
+100552
+Quantidade menores que 5: 45218
+Quantidade maiores que 5: 54782
+
+N = 5
+T = 16
+Tempo de execucao: 0.0089390000 
+Total:501595
+totais grupo: 
+100336
+99780
+100821
+100106
+100552
+Quantidade menores que 5: 45218
+Quantidade maiores que 5: 54782
+
+N = 5
+T = 64
+Tempo de execucao: 0.0078970000 
+Total:501595
+totais grupo: 
+100336
+99780
+100821
+100106
+100552
+Quantidade menores que 5: 45218
+Quantidade maiores que 5: 54782
+
+N = 5
+T = 256
+Tempo de execucao: 0.0180850000 
+Total:501595
+totais grupo: 
+100336
+99780
+100821
+100106
+100552
+Quantidade menores que 5: 45218
+Quantidade maiores que 5: 54782
+
+N = 6
+T = 1
+Tempo de execucao: 0.0859140000 
+Total:5002838
+totais grupo: 
+1000783
+997923
+1005561
+997727
+1000844
+Quantidade menores que 5: 454223
+Quantidade maiores que 5: 545777
+
+N = 6
+T = 4
+Tempo de execucao: 0.0459320000 
+Total:5002838
+totais grupo: 
+1000783
+997923
+1005561
+997727
+1000844
+Quantidade menores que 5: 454223
+Quantidade maiores que 5: 545777
+
+N = 6
+T = 16
+Tempo de execucao: 0.0492910000 
+Total:5002838
+totais grupo: 
+1000783
+997923
+1005561
+997727
+1000844
+Quantidade menores que 5: 454223
+Quantidade maiores que 5: 545777
+
+N = 6
+T = 64
+Tempo de execucao: 0.0468390000 
+Total:5002838
+totais grupo: 
+1000783
+997923
+1005561
+997727
+1000844
+Quantidade menores que 5: 454223
+Quantidade maiores que 5: 545777
+
+N = 6
+T = 256
+Tempo de execucao: 0.0885080000 
+Total:5002838
+totais grupo: 
+1000783
+997923
+1005561
+997727
+1000844
+Quantidade menores que 5: 454223
+Quantidade maiores que 5: 545777
+
+N = 7
+T = 1
+Tempo de execucao: 0.8086860000 
+Total:50018169
+totais grupo: 
+10015616
+9995535
+10015697
+9992856
+9998465
+Quantidade menores que 5: 4542907
+Quantidade maiores que 5: 5457093
+
+N = 7
+T = 4
+Tempo de execucao: 0.4356670000 
+Total:50018169
+totais grupo: 
+10015616
+9995535
+10015697
+9992856
+9998465
+Quantidade menores que 5: 4542907
+Quantidade maiores que 5: 5457093
+
+N = 7
+T = 16
+Tempo de execucao: 0.5538660000 
+Total:50018169
+totais grupo: 
+10015616
+9995535
+10015697
+9992856
+9998465
+Quantidade menores que 5: 4542907
+Quantidade maiores que 5: 5457093
+
+N = 7
+T = 64
+Tempo de execucao: 0.4865610000 
+Total:50018169
+totais grupo: 
+10015616
+9995535
+10015697
+9992856
+9998465
+Quantidade menores que 5: 4542907
+Quantidade maiores que 5: 5457093
+
+N = 7
+T = 256
+Tempo de execucao: 1.0384840000 
+Total:50018169
+totais grupo: 
+10015616
+9995535
+10015697
+9992856
+9998465
+Quantidade menores que 5: 4542907
+Quantidade maiores que 5: 5457093
+
+N = 8
+T = 1
+Tempo de execucao: 8.0627640000 
+Total:500023460
+totais grupo: 
+99996796
+100017303
+100002139
+100000805
+100006417
+Quantidade menores que 5: 45452357
+Quantidade maiores que 5: 54547643
+
+N = 8
+T = 4
+Tempo de execucao: 4.2867350000 
+Total:500023460
+totais grupo: 
+99996796
+100017303
+100002139
+100000805
+100006417
+Quantidade menores que 5: 45452357
+Quantidade maiores que 5: 54547643
+
+N = 8
+T = 16
+Tempo de execucao: 5.4474710000 
+Total:500023460
+totais grupo: 
+99996796
+100017303
+100002139
+100000805
+100006417
+Quantidade menores que 5: 45452357
+Quantidade maiores que 5: 54547643
+
+N = 8
+T = 64
+Tempo de execucao: 4.6982810000 
+Total:500023460
+totais grupo: 
+99996796
+100017303
+100002139
+100000805
+100006417
+Quantidade menores que 5: 45452357
+Quantidade maiores que 5: 54547643
+
+N = 8
+T = 256
+Tempo de execucao: 13.7279920000 
+Total:500023460
+totais grupo: 
+99996796
+100017303
+100002139
+100000805
+100006417
+Quantidade menores que 5: 45452357
+Quantidade maiores que 5: 54547643
+
