@@ -1,0 +1,260 @@
+N = 5
+T = 1
+Tempo de execucao: 2.457536ms
+Total: 498624
+Totais grupo:
+99687
+100158
+100421
+99071
+99287
+Quantidade menores que 5: 45613
+Quantidade maiores que 5: 54387
+
+N = 5
+T = 4
+Tempo de execucao: 5.360457ms
+Total: 498624
+Totais grupo:
+99687
+100158
+100421
+99071
+99287
+Quantidade menores que 5: 45613
+Quantidade maiores que 5: 54387
+
+N = 5
+T = 16
+Tempo de execucao: 2.829671ms
+Total: 498624
+Totais grupo:
+99687
+100158
+100421
+99071
+99287
+Quantidade menores que 5: 45613
+Quantidade maiores que 5: 54387
+
+N = 5
+T = 64
+Tempo de execucao: 2.947712ms
+Total: 498624
+Totais grupo:
+99687
+100158
+100421
+99071
+99287
+Quantidade menores que 5: 45613
+Quantidade maiores que 5: 54387
+
+N = 5
+T = 256
+Tempo de execucao: 4.906531ms
+Total: 498624
+Totais grupo:
+99687
+100158
+100421
+99071
+99287
+Quantidade menores que 5: 45613
+Quantidade maiores que 5: 54387
+
+N = 6
+T = 1
+Tempo de execucao: 18.65587ms
+Total: 5001808
+Totais grupo:
+1002835
+998303
+999329
+999928
+1001413
+Quantidade menores que 5: 454529
+Quantidade maiores que 5: 545471
+
+N = 6
+T = 4
+Tempo de execucao: 24.540091ms
+Total: 5001808
+Totais grupo:
+1002835
+998303
+999329
+999928
+1001413
+Quantidade menores que 5: 454529
+Quantidade maiores que 5: 545471
+
+N = 6
+T = 16
+Tempo de execucao: 18.513878ms
+Total: 5001808
+Totais grupo:
+1002835
+998303
+999329
+999928
+1001413
+Quantidade menores que 5: 454529
+Quantidade maiores que 5: 545471
+
+N = 6
+T = 64
+Tempo de execucao: 14.297004ms
+Total: 5001808
+Totais grupo:
+1002835
+998303
+999329
+999928
+1001413
+Quantidade menores que 5: 454529
+Quantidade maiores que 5: 545471
+
+N = 6
+T = 256
+Tempo de execucao: 16.475528ms
+Total: 5001808
+Totais grupo:
+1002835
+998303
+999329
+999928
+1001413
+Quantidade menores que 5: 454529
+Quantidade maiores que 5: 545471
+
+N = 7
+T = 1
+Tempo de execucao: 179.001183ms
+Total: 49994256
+Totais grupo:
+9993720
+10001887
+10002564
+9999943
+9996142
+Quantidade menores que 5: 4547470
+Quantidade maiores que 5: 5452530
+
+N = 7
+T = 4
+Tempo de execucao: 215.46319ms
+Total: 49994256
+Totais grupo:
+9993720
+10001887
+10002564
+9999943
+9996142
+Quantidade menores que 5: 4547470
+Quantidade maiores que 5: 5452530
+
+N = 7
+T = 16
+Tempo de execucao: 169.27008ms
+Total: 49994256
+Totais grupo:
+9993720
+10001887
+10002564
+9999943
+9996142
+Quantidade menores que 5: 4547470
+Quantidade maiores que 5: 5452530
+
+N = 7
+T = 64
+Tempo de execucao: 145.070945ms
+Total: 49994256
+Totais grupo:
+9993720
+10001887
+10002564
+9999943
+9996142
+Quantidade menores que 5: 4547470
+Quantidade maiores que 5: 5452530
+
+N = 7
+T = 256
+Tempo de execucao: 123.426748ms
+Total: 49994256
+Totais grupo:
+9993720
+10001887
+10002564
+9999943
+9996142
+Quantidade menores que 5: 4547470
+Quantidade maiores que 5: 5452530
+
+N = 8
+T = 1
+Tempo de execucao: 1.794534728s
+Total: 500052356
+Totais grupo:
+100001010
+100001881
+100008383
+100025428
+100015654
+Quantidade menores que 5: 45449981
+Quantidade maiores que 5: 54550019
+
+N = 8
+T = 4
+Tempo de execucao: 2.733537832s
+Total: 500052356
+Totais grupo:
+100001010
+100001881
+100008383
+100025428
+100015654
+Quantidade menores que 5: 45449981
+Quantidade maiores que 5: 54550019
+
+N = 8
+T = 16
+Tempo de execucao: 1.559179042s
+Total: 500052356
+Totais grupo:
+100001010
+100001881
+100008383
+100025428
+100015654
+Quantidade menores que 5: 45449981
+Quantidade maiores que 5: 54550019
+
+N = 8
+T = 64
+Tempo de execucao: 1.328336689s
+Total: 500052356
+Totais grupo:
+100001010
+100001881
+100008383
+100025428
+100015654
+Quantidade menores que 5: 45449981
+Quantidade maiores que 5: 54550019
+
+N = 8
+T = 256
+Tempo de execucao: 1.401695623s
+Total: 500052356
+Totais grupo:
+100001010
+100001881
+100008383
+100025428
+100015654
+Quantidade menores que 5: 45449981
+Quantidade maiores que 5: 54550019
+

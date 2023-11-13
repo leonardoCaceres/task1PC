@@ -7,6 +7,7 @@ import (
 	"os"
 	"sync"
 	"strconv"
+	"time"
 )
 
 type Objeto struct {
@@ -49,7 +50,8 @@ func main() {
 	teto := float64(base10N) / float64(T)
 
 	var wg sync.WaitGroup
-
+	
+	start := time.Now()
 	//// Processamento
 	for i := 0; i < T; i++ {
 		wg.Add(1)
@@ -91,6 +93,11 @@ func main() {
 		finalMaiorList = append(finalMaiorList, listaMaior[i]...)
 	}
 	/// Processamento
+	elapsed := time.Since(start)
+	fmt.Println("N =", N)
+	fmt.Println("T =", T)
+    	fmt.Println("Tempo de execucao:", elapsed)
+	
 	
 	fmt.Println("Total:", totais)
 	fmt.Println("Totais grupo:")
