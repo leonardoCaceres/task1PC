@@ -44,7 +44,7 @@ int main(int argc, char *argv[])
 	float teto = float(base10N)/float(T);
 	
 	////Processamento
-	#pragma omp parallel num_threads(T)
+	#pragma omp parallel num_threads(T) shared (lista)
 	{
 		int inicio = ceil( teto * omp_get_thread_num() );
 		int fim = ceil( teto * (omp_get_thread_num()+1) );
