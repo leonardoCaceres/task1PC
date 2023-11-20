@@ -1,6 +1,7 @@
+Running ./teste 5 1
 N = 5
 T = 1
-Tempo de execucao: 0.0146360000 
+Tempo de execucao: 0.0101360000 
 Total:501595
 totais grupo: 
 100336
@@ -10,10 +11,11 @@ totais grupo:
 100552
 Quantidade menores que 5: 45218
 Quantidade maiores que 5: 54782
-
+-----------------------
+Running ./teste 5 4
 N = 5
 T = 4
-Tempo de execucao: 0.0078000000 
+Tempo de execucao: 0.0057160000 
 Total:501595
 totais grupo: 
 100336
@@ -23,10 +25,11 @@ totais grupo:
 100552
 Quantidade menores que 5: 45218
 Quantidade maiores que 5: 54782
-
+-----------------------
+Running ./teste 5 16
 N = 5
 T = 16
-Tempo de execucao: 0.0089390000 
+Tempo de execucao: 0.0043460000 
 Total:501595
 totais grupo: 
 100336
@@ -36,10 +39,11 @@ totais grupo:
 100552
 Quantidade menores que 5: 45218
 Quantidade maiores que 5: 54782
-
+-----------------------
+Running ./teste 5 64
 N = 5
 T = 64
-Tempo de execucao: 0.0078970000 
+Tempo de execucao: 0.0049430000 
 Total:501595
 totais grupo: 
 100336
@@ -49,10 +53,11 @@ totais grupo:
 100552
 Quantidade menores que 5: 45218
 Quantidade maiores que 5: 54782
-
+-----------------------
+Running ./teste 5 256
 N = 5
 T = 256
-Tempo de execucao: 0.0180850000 
+Tempo de execucao: 0.0142250000 
 Total:501595
 totais grupo: 
 100336
@@ -62,10 +67,11 @@ totais grupo:
 100552
 Quantidade menores que 5: 45218
 Quantidade maiores que 5: 54782
-
+-----------------------
+Running ./teste 6 1
 N = 6
 T = 1
-Tempo de execucao: 0.0859140000 
+Tempo de execucao: 0.0817750000 
 Total:5002838
 totais grupo: 
 1000783
@@ -75,10 +81,11 @@ totais grupo:
 1000844
 Quantidade menores que 5: 454223
 Quantidade maiores que 5: 545777
-
+-----------------------
+Running ./teste 6 4
 N = 6
 T = 4
-Tempo de execucao: 0.0459320000 
+Tempo de execucao: 0.0407560000 
 Total:5002838
 totais grupo: 
 1000783
@@ -88,10 +95,11 @@ totais grupo:
 1000844
 Quantidade menores que 5: 454223
 Quantidade maiores que 5: 545777
-
+-----------------------
+Running ./teste 6 16
 N = 6
 T = 16
-Tempo de execucao: 0.0492910000 
+Tempo de execucao: 0.0524410000 
 Total:5002838
 totais grupo: 
 1000783
@@ -101,10 +109,11 @@ totais grupo:
 1000844
 Quantidade menores que 5: 454223
 Quantidade maiores que 5: 545777
-
+-----------------------
+Running ./teste 6 64
 N = 6
 T = 64
-Tempo de execucao: 0.0468390000 
+Tempo de execucao: 0.0466410000 
 Total:5002838
 totais grupo: 
 1000783
@@ -114,10 +123,11 @@ totais grupo:
 1000844
 Quantidade menores que 5: 454223
 Quantidade maiores que 5: 545777
-
+-----------------------
+Running ./teste 6 256
 N = 6
 T = 256
-Tempo de execucao: 0.0885080000 
+Tempo de execucao: 0.1083640000 
 Total:5002838
 totais grupo: 
 1000783
@@ -127,10 +137,11 @@ totais grupo:
 1000844
 Quantidade menores que 5: 454223
 Quantidade maiores que 5: 545777
-
+-----------------------
+Running ./teste 7 1
 N = 7
 T = 1
-Tempo de execucao: 0.8086860000 
+Tempo de execucao: 0.8177190000 
 Total:50018169
 totais grupo: 
 10015616
@@ -140,10 +151,11 @@ totais grupo:
 9998465
 Quantidade menores que 5: 4542907
 Quantidade maiores que 5: 5457093
-
+-----------------------
+Running ./teste 7 4
 N = 7
 T = 4
-Tempo de execucao: 0.4356670000 
+Tempo de execucao: 0.4322180000 
 Total:50018169
 totais grupo: 
 10015616
@@ -153,10 +165,11 @@ totais grupo:
 9998465
 Quantidade menores que 5: 4542907
 Quantidade maiores que 5: 5457093
-
+-----------------------
+Running ./teste 7 16
 N = 7
 T = 16
-Tempo de execucao: 0.5538660000 
+Tempo de execucao: 0.5482480000 
 Total:50018169
 totais grupo: 
 10015616
@@ -166,10 +179,11 @@ totais grupo:
 9998465
 Quantidade menores que 5: 4542907
 Quantidade maiores que 5: 5457093
-
+-----------------------
+Running ./teste 7 64
 N = 7
 T = 64
-Tempo de execucao: 0.4865610000 
+Tempo de execucao: 0.4728760000 
 Total:50018169
 totais grupo: 
 10015616
@@ -179,10 +193,11 @@ totais grupo:
 9998465
 Quantidade menores que 5: 4542907
 Quantidade maiores que 5: 5457093
-
+-----------------------
+Running ./teste 7 256
 N = 7
 T = 256
-Tempo de execucao: 1.0384840000 
+Tempo de execucao: 1.1830200000 
 Total:50018169
 totais grupo: 
 10015616
@@ -192,10 +207,11 @@ totais grupo:
 9998465
 Quantidade menores que 5: 4542907
 Quantidade maiores que 5: 5457093
-
+-----------------------
+Running ./teste 8 1
 N = 8
 T = 1
-Tempo de execucao: 8.0627640000 
+Tempo de execucao: 8.6100010000 
 Total:500023460
 totais grupo: 
 99996796
@@ -205,10 +221,11 @@ totais grupo:
 100006417
 Quantidade menores que 5: 45452357
 Quantidade maiores que 5: 54547643
-
+-----------------------
+Running ./teste 8 4
 N = 8
 T = 4
-Tempo de execucao: 4.2867350000 
+Tempo de execucao: 6.7150660000 
 Total:500023460
 totais grupo: 
 99996796
@@ -218,10 +235,11 @@ totais grupo:
 100006417
 Quantidade menores que 5: 45452357
 Quantidade maiores que 5: 54547643
-
+-----------------------
+Running ./teste 8 16
 N = 8
 T = 16
-Tempo de execucao: 5.4474710000 
+Tempo de execucao: 7.0780390000 
 Total:500023460
 totais grupo: 
 99996796
@@ -231,10 +249,11 @@ totais grupo:
 100006417
 Quantidade menores que 5: 45452357
 Quantidade maiores que 5: 54547643
-
+-----------------------
+Running ./teste 8 64
 N = 8
 T = 64
-Tempo de execucao: 4.6982810000 
+Tempo de execucao: 6.6060520000 
 Total:500023460
 totais grupo: 
 99996796
@@ -244,10 +263,11 @@ totais grupo:
 100006417
 Quantidade menores que 5: 45452357
 Quantidade maiores que 5: 54547643
-
+-----------------------
+Running ./teste 8 256
 N = 8
 T = 256
-Tempo de execucao: 13.7279920000 
+Tempo de execucao: 17.6326130000 
 Total:500023460
 totais grupo: 
 99996796
@@ -257,4 +277,5 @@ totais grupo:
 100006417
 Quantidade menores que 5: 45452357
 Quantidade maiores que 5: 54547643
+-----------------------
 
